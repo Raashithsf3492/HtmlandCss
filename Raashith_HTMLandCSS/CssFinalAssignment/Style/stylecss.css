@@ -1,0 +1,150 @@
+h2{
+    font-family: 'CarosBold',sans-serif ;
+}
+
+
+
+img{
+    width: 60px;
+    height: 55.1px;
+}
+
+div{
+    margin: 20px;
+    display: block;
+    
+}
+
+
+.send{
+     font-size: 26px;
+     line-height: 33px;
+     color: #283A5E;
+     font-family: "Caros Bold", Caros;
+     text-align: center;
+
+}
+
+input[type=text],input[type=email],input[type=tel]{
+    padding: 10px;
+}
+
+.message{
+   
+   
+    width: 50%;
+    border: 2px solid white;
+   margin-top: -450px;
+   margin-left: 500px;
+   position: relative;
+   float: right;
+    
+}
+.morrisville{
+    font-size: 19px;
+    line-height: 25px;
+}
+
+
+#hq{
+    margin-left: 10px;
+    padding: 10px;
+}
+/* #hq img{
+    
+       position: relative;
+        height: auto;
+        width: auto;
+        border: none;
+       
+      
+} */
+
+.forum{
+    margin-left: 100px;
+}
+
+.mathura img{
+    
+    height: auto;
+    width: auto;
+    border: none;
+    display: flex;
+  
+}
+
+input[type=submit]{
+    font-family: "Caros Medium", Caros;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+    color: #ffffff;
+    background-color: #ff4800;
+    width: 95% !important
+}
+
+#button:hover
+{
+    color: #ffffff;
+}
+.follow{
+    text-align: center;
+    vertical-align: center;
+
+}
+
+
+.boldbi-footer {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+#boldbi-img{
+    
+    width: 100%;
+    
+}
+
+#eymard{
+    vertical-align: middle;
+}
+
+#Office{
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#Office img{
+    width: 100%;
+    height: auto;
+}
+
+
+
+#ChatIcon {
+    position: fixed;
+    bottom: 22px;
+    z-index: 10000;
+    float: right;
+    right: 21px;
+    cursor: pointer;
+    vertical-align: middle !important;
+    margin: auto;
+}
+
+#copyright{
+    text-align: center;
+}
+
+#products{
+
+    padding: 10px;
+}
+
+#socialmedia{
+   text-align: center;
+}
